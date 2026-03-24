@@ -1,2 +1,0 @@
-# solvo-platform
-solvo-platform
